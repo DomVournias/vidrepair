@@ -2,7 +2,16 @@
 
 **Repair corrupted video files — free, offline, no account required.**
 
-→ [Download at vidrepair.com](https://vidrepair.com)
+→ [Download latest release](https://github.com/DomVournias/vidrepair/releases/latest)  
+→ [vidrepair.com](https://vidrepair.com)
+
+---
+
+## Download
+
+Get the latest `.exe` installer from the [Releases](https://github.com/DomVournias/vidrepair/releases) page.
+
+**Requirements:** Windows 10 / 11 · x86_64
 
 ---
 
@@ -13,9 +22,11 @@ Use [GitHub Issues](https://github.com/DomVournias/vidrepair/issues) to:
 - Request a feature
 - Ask a question
 
+---
+
 ## About
 
-VidRepair repairs corrupted MP4, MOV, MKV and other video containers directly 
+VidRepair repairs corrupted MP4, MOV, MKV and other video containers directly
 on your machine. No uploads, no account, no internet required.
 
 Built with Tauri + Rust + ffmpeg.
